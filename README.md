@@ -1,3 +1,9 @@
+
+# Health Status
+
+[![Build Status](https://travis-ci.org/obaidpervaizgill/ScalaJarBuildTest.svg?branch=master)](https://travis-ci.org/obaidpervaizgill/ScalaJarBuildTest)
+
+
 # ScalaJarBuildTest
 
 **By Obaid Pervaiz Gill**
@@ -20,6 +26,3 @@
 
 
 
-# Health Status
-
-[![Build Status](https://travis-ci.org/obaidpervaizgill/ScalaJarBuildTest.svg?branch=master)](https://travis-ci.org/obaidpervaizgill/ScalaJarBuildTest)
