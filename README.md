@@ -6,7 +6,7 @@
 
 **In this repository, I try setting up a local github repository that is linked to an IntelliJIdea project using Scala and is then compiled through Travis CI**
 
-# *Part 1: Setting up a GitHub repository, local and remote* 
+# *Part 1: Setting up a GitHub repository, local and origin* 
 ![GitHub Logo](http://blog.davidecoppola.com/wp-content/uploads/2016/11/GitHub-logo-header.png)
 
 # *Part 2: Setting up a Scala project in IntelliJ Idea using SBT* 
