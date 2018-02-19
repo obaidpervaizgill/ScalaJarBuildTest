@@ -4,7 +4,7 @@
 
 **This notebook covers my aim at learning software engineering principles from the best developers**
 
-**In this repository, I try setting up a code repository that is linked to my project and is tested for continuous integration. I do the following;**
+**In this repository, I try setting up a code repository that is linked to my project and is tested for continuous integration. I do the following steps**
 
 # *Part 1: Setting up a GitHub repository, local and origin* 
 ![GitHub Logo](http://blog.davidecoppola.com/wp-content/uploads/2016/11/GitHub-logo-header.png)
@@ -20,5 +20,6 @@
 
 
 
-**Health Status**
+**Health Status :**
+
 [![Build Status](https://travis-ci.org/obaidpervaizgill/ScalaJarBuildTest.svg?branch=master)](https://travis-ci.org/obaidpervaizgill/ScalaJarBuildTest)
