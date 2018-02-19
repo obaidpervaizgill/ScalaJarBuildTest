@@ -6,7 +6,9 @@ package bobsdelights
 import org.scalatest.FunSuite
 
 class FruitSuite extends FunSuite {
-  object Cherry extends Fruit("Cherry", "Red")
-  assert("Cherry" == Cherry.name)
-  assert("Red" == Cherry.color)
+  test("name and color of the fruit is printed") {
+    object Cherry extends Fruit("Cherry", "Red")
+    assert("Cherry" == Cherry.name)
+    assert("Red" == Cherry.color)
+  }
 }
