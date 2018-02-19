@@ -1,8 +1,8 @@
 # ScalaJarBuildTest
 
-By Obaid Pervaiz Gill
+**By Obaid Pervaiz Gill**
 
-This notebook covers my aim at learning software engineering principles from the best developers
+**This notebook covers my aim at learning software engineering principles from the best developers**
 
 **In this repository, I try setting up a local github repository that is linked to an IntelliJIdea project using Scala and is then compiled through Travis CI**
 
